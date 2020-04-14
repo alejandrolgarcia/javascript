@@ -1,6 +1,6 @@
 # Práctica de Javascript
 
-_El siguiente repositorio tiene como objetivo documentar toda la práctica realizada sobre el leguanje de programación Javascript, el cual está disponible para todo aquel que desee aprender sobre este hermoso lenguaje_
+_El siguiente repositorio tiene como objetivo documentar toda la práctica realizada sobre el leguanje de programación Javascript, el cual está disponible para todo aquel que desee aprender sobre este hermoso lenguaje._
 
 ## Fundamentos
 
@@ -26,7 +26,22 @@ _Fundamentos sobre Javascript_
 * Do While
 * For (For in y For of)
 
+## Laboratorio 1: Blackjack
+
+_Temas puntuales de la sección_
+
+* Trabajar con arreglos
+* Mezclar los valores de los arreglos
+* Introducción a la manipulación del DOM
+* Eventos
+* Crear imágenes en la página
+* Realizar la lógica para implementar un competidor de cartas.
+* Patrón módulo
+* Minimizar el código de forma manual (luego lo haremos de forma automática)
+* Optimizaciones y protección de código
+* Bonus: Uso de Code Minify
+
 ---
-Recuerda, un gran poder conlleva una gran responsabilidad.
+Recuerda, un gran poder conlleva una gran responsabilidad, 
 [alejandrolgarcia](https://github.com/alejandrolgarcia)
 
