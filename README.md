@@ -25,6 +25,15 @@ _Fundamentos sobre Javascript_
 * While
 * Do While
 * For (For in y For of)
+* Problematica de prototipos
+* Clases
+* Sets
+* Gets
+* Métodos estáticos
+* Gets estáticos
+* ESNext: Propiedades privadas (aún no soportado completamente)
+* Singletons
+* Multiples constructores
 
 ## Laboratorio 1: Blackjack
 
